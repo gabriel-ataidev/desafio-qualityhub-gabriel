@@ -9,17 +9,21 @@
       <PieChart />
       <BarChart />
     </div>
+    <h1 class="title">Lista dos 151 pokemons clássicos da primeira geração</h1>
+    <PokemonList />
   </div>
 </template>
 
 <script>
 import PieChart from "./components/PieChart.vue";
 import BarChart from "./components/BarChart.vue";
+import PokemonList from "./components/PokemonList.vue";
 export default {
   name: "App",
   components: {
     PieChart,
     BarChart,
+    PokemonList,
   },
 };
 </script>
