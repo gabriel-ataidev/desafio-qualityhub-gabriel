@@ -5,4 +5,4 @@ Para resolver este desafio foi utilizado o framework Vue.js na versao 3. Além d
 ![img1](https://user-images.githubusercontent.com/86975073/175852807-f706f8f6-4093-4485-9fc6-0bb5ec5f5426.JPG)
 ![img2](https://user-images.githubusercontent.com/86975073/175852817-89c92335-207a-42be-acb6-41fd530d8730.JPG)
 ##
-Para executar este projeto, é necessário clonar este repositório para rodá-lo localmente e digitar "npm run serve" no terminal.
+Para executar este projeto, é necessário clonar este repositório para rodá-lo localmente e digitar "npm install" e depois "npm run serve" no terminal.
